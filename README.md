@@ -1,5 +1,8 @@
 # IslandsInterface
 
+Phoenix application for the game Islands Engine.
+See the core in the repo: https://github.com/sofiapradofuentes/islands_engine.git
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
